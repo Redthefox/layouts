@@ -5,14 +5,20 @@ body{
 /* END OF PREMADE */
 
 .main_container{
-
+    display: flex;
+    height: 100vh;
+    flex-flow: column wrap;
+    padding-left: 26px;
+    padding-top: 26px;
 }
 
 .sidebar{
+    width: 30%;
 
 }
 
 .sidebar img{
+    width: 72px;
 
 }
 

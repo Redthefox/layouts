@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-image: url("../../assets/shoes.jpg")
+    
+}
+.center_content{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column; 
+   
+    
+}
+.center_content h3{
+    font-size: 35px;
+}
+.center_content img{
+     height: 72px;
+    }
+
